@@ -1,5 +1,4 @@
 # Bamboo-loab
 
-[Click here](Pages)
-![oNE](image.png)
+[Click here](https://github.com/Surya-Jaganathan/Bamboo-loab/blob/main/Pages.md#what-is-bambu-studio)
 
