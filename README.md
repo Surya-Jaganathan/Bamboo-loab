@@ -1,3 +1,3 @@
 # Bamboo-loab
 
-[Click](Pages)
+[Click here](Pages)
