@@ -27,24 +27,24 @@ Bambu Studio is our cutting-edge, feature-rich slicing software developed by Bam
 
 The first step is to select the region you are located in. A user account registered in North America for example, cannot log in if the region is set to China.
 
-![alt text](image-6.png)
+![Region](2.png)
 
 # Printer Selection
 
 Choose the printers/nozzles that you would like displayed in the slicer operation menu. You may select any or all of the options available to you. These options can be altered at a later stage through the slicer menu should you wish to only choose one at this stage and decide to change nozzle size at a later stage
 
-![alt text](image-5.png)
+![Printer](3.png)
 
 # Filament Selection
 
 Select the filaments you would like to see listed in the filament preset list, you can choose as many as are available.
 
-![alt text](image-4.png)
+![Filament](4.png)
 
 # Install Bambu Network Plug-in 
 
 The Bambu Network plug-in provides networking capabilities, such as printing via WAN/LAN, remote control, user data sync. The plugin installation requires Internet connection and will be auto-installed \(if enabled\) after the setup wizard.
 
-![alt text](image-3.png)
+![Plug-in](install_plugin.png)
 
 
